@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/Users/Kot/CLionProjects/hw37/build-player-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/player_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Kot/CLionProjects/hw37/build-player-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Kot/CLionProjects/hw37/build-player-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Kot/CLionProjects/hw37/player",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Kot/CLionProjects/hw37/player",
+	"INCLUDE_DIR" : "C:/Users/Kot/CLionProjects/hw37/build-player-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/player_autogen/include",
+	"INPUTS" : [ "C:/Users/Kot/CLionProjects/hw37/player/main.qml" ],
+	"LOCK_FILE" : "C:/Users/Kot/CLionProjects/hw37/build-player-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/player_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Kot/CLionProjects/hw37/build-player-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/player_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Kot/CLionProjects/hw37/player/qml.qrc",
+	"VERBOSITY" : 0
+}

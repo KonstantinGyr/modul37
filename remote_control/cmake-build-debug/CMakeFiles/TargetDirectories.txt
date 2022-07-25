@@ -1,0 +1,4 @@
+C:/Users/Kot/CLionProjects/hw37/remote_control/cmake-build-debug/CMakeFiles/remote_control.dir
+C:/Users/Kot/CLionProjects/hw37/remote_control/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/hw37/remote_control/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kot/CLionProjects/hw37/remote_control/cmake-build-debug/CMakeFiles/remote_control_autogen.dir
